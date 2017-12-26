@@ -16,10 +16,14 @@ Google NGram Data
 
 Data Structures:
 Hashmap for X, to select the best XYZ combinations
+Tree Structure or Linked list to get best top 30 XYZ jokes given X
 Given N words, O(N*A) is runtime after all the processing
 
 Crazy Ideas:
    - Use a Neural Net
+   - Use a pipeline, that, *** Instead of generating all XYZ combinations for a given X,
+	and its accompanying data storage, will selectively exclude
+	data that has low Surprisal Factor, or Co-occurence, etc.
 
 
 
