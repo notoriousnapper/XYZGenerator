@@ -30,4 +30,6 @@ Crazy Ideas:
 Links: 
 Getting correct words with custom dictionaries: http://pythonhosted.org/pyenchant/tutorial.html#pyenchant-tutorial
 Understanding N-Gram Data/ Research Paper: http://support.sas.com/resources/papers/proceedings16/12487-2016.pdf
+Useful for Finding N-Gram frequency for specific as API: http://phrasefinder.io
 
+Generating Adjectives for a given word: https://www.datamuse.com/api/
